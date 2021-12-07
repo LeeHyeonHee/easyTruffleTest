@@ -1,0 +1,4 @@
+# easyTruffleTest
+
+
+Truffle easy example
